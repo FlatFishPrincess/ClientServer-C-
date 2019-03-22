@@ -1,0 +1,7 @@
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/BasicConsoleIO/bin/Release/BasicConsoleIO.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/BasicConsoleIO/bin/Release/BasicConsoleIO.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/BasicConsoleIO/bin/Release/BasicConsoleIO.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/BasicConsoleIO/obj/Release/BasicConsoleIO.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/BasicConsoleIO/obj/Release/BasicConsoleIO.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/BasicConsoleIO/obj/Release/BasicConsoleIO.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/BasicConsoleIO/obj/Release/BasicConsoleIO.pdb

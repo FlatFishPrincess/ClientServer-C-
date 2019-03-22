@@ -1,0 +1,12 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumerator\obj\Debug\CustomEnumerator.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumerator\obj\Debug\CustomEnumerator.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumerator\obj\Debug\CustomEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

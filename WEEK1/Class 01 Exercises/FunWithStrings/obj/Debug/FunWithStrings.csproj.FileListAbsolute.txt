@@ -1,0 +1,12 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\bin\Debug\FunWithStrings.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\bin\Debug\FunWithStrings.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\obj\Debug\FunWithStrings.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\obj\Debug\FunWithStrings.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\bin\Debug\FunWithStrings.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\bin\Debug\FunWithStrings.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\obj\Debug\FunWithStrings.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\obj\Debug\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\obj\Debug\FunWithStrings.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\FunWithStrings\obj\Debug\FunWithStrings.pdb

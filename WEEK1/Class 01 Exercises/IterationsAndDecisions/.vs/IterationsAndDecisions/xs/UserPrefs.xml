@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1362F098-59E2-41C1-A3C4-443D3A2806A9}|Default">
+  <MonoDevelop.Ide.ItemProperties.IterationsAndDecisions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IterationsAndDecisionsProgram.cs">
+    <Files>
+      <File FileName="IterationsAndDecisionsProgram.cs" Line="123" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

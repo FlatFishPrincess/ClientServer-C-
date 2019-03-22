@@ -1,0 +1,14 @@
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/ConstructXMLDocs/bin/Debug/ConstructXMLDocs.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/ConstructXMLDocs/bin/Debug/ConstructXMLDocs.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/ConstructXMLDocs/bin/Debug/ConstructXMLDocs.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/ConstructXMLDocs/obj/Debug/ConstructingXMLDocs.csprojAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/ConstructXMLDocs/obj/Debug/ConstructingXMLDocs.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/ConstructXMLDocs/obj/Debug/ConstructXMLDocs.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/ConstructXMLDocs/obj/Debug/ConstructXMLDocs.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/ConstructingXMLDocs/bin/Debug/ConstructXMLDocs.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/ConstructingXMLDocs/bin/Debug/ConstructXMLDocs.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/ConstructingXMLDocs/bin/Debug/ConstructXMLDocs.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/ConstructingXMLDocs/obj/Debug/ConstructingXMLDocs.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/ConstructingXMLDocs/obj/Debug/ConstructingXMLDocs.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/ConstructingXMLDocs/obj/Debug/ConstructXMLDocs.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/ConstructingXMLDocs/obj/Debug/ConstructXMLDocs.pdb

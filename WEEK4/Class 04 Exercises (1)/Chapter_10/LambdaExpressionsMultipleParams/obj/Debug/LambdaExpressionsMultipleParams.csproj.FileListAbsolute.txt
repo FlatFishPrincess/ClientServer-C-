@@ -1,0 +1,8 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\LambdaExpressionsMultipleParams\bin\Debug\LambdaExpressionsMultipleParams.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\LambdaExpressionsMultipleParams\bin\Debug\LambdaExpressionsMultipleParams.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\LambdaExpressionsMultipleParams\bin\Debug\LambdaExpressionsMultipleParams.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\LambdaExpressionsMultipleParams\obj\Debug\LambdaExpressionsMultipleParams.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\LambdaExpressionsMultipleParams\obj\Debug\LambdaExpressionsMultipleParams.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\LambdaExpressionsMultipleParams\bin\Debug\LambdaExpressionsMultipleParams.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\LambdaExpressionsMultipleParams\obj\Debug\LambdaExpressionsMultipleParams.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\LambdaExpressionsMultipleParams\obj\Debug\LambdaExpressionsMultipleParams.pdb

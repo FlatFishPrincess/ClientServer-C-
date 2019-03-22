@@ -1,0 +1,36 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\bin\Debug\BasicWindowsForm.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\bin\Debug\BasicWindowsForm.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\bin\Debug\BasicWindowsForm.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\obj\Debug\BasicWindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\obj\Debug\BasicWindowsForm.BasicWindowsForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\obj\Debug\BasicWindowsForm.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\obj\Debug\BasicWindowsForm.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\obj\Debug\BasicWindowsForm.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\BasicWindowsForm\BasicWindowsForm\obj\Debug\BasicWindowsForm.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.BasicWindowsForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.csproj.GenerateResource.Cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.BasicWindowsForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.Properties.Resources.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\bin\Debug\BasicWindowsForm.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.BasicWindowsForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\BasicWindowsForm\obj\Debug\BasicWindowsForm.pdb

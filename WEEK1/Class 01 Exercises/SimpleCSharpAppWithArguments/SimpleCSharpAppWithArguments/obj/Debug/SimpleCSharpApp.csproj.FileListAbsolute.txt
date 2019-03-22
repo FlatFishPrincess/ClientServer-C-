@@ -1,0 +1,2 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config

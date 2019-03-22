@@ -1,0 +1,14 @@
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/XMLSerialize/bin/Debug/SimpleSerialize.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/XMLSerialize/bin/Debug/SimpleSerialize.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/XMLSerialize/bin/Debug/SimpleSerialize.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/XMLSerialize/obj/Debug/XMLSerialize.csprojAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/XMLSerialize/obj/Debug/XMLSerialize.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/XMLSerialize/obj/Debug/SimpleSerialize.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 05/Class 05 Exercises/XMLSerialize/obj/Debug/SimpleSerialize.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/bin/Debug/SimpleSerialize.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/bin/Debug/SimpleSerialize.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/bin/Debug/SimpleSerialize.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/obj/Debug/XMLSerialize.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/obj/Debug/XMLSerialize.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/obj/Debug/SimpleSerialize.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/obj/Debug/SimpleSerialize.pdb

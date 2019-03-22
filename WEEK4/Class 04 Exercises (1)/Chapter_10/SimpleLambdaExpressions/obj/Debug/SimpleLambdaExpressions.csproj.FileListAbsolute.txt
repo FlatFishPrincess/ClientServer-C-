@@ -1,0 +1,26 @@
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.exe.config
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.csprojResolveAssemblyReference.cache
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.exe.config
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.csprojResolveAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.csprojAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/SimpleLambdaExpressions/bin/Debug/SimpleLambdaExpressions.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/SimpleLambdaExpressions/obj/Debug/SimpleLambdaExpressions.pdb

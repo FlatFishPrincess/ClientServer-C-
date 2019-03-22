@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SecretAgentCar xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" canFly="true" canSubmerge="false">
+  <theRadio>
+    <hasTweeters>true</hasTweeters>
+    <hasSubWoofers>true</hasSubWoofers>
+    <stationPresets>
+      <double>89.3</double>
+      <double>105.1</double>
+      <double>97.1</double>
+    </stationPresets>
+    <radioID>XF-552RR6</radioID>
+  </theRadio>
+  <isHatchBack>false</isHatchBack>
+  <Name>Maserati</Name>
+</SecretAgentCar>

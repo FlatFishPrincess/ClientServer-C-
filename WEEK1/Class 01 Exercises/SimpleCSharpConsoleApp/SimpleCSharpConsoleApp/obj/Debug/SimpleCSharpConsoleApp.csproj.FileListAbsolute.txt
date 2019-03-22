@@ -1,0 +1,33 @@
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_2/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe.config
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_2/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_2/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_2/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.csprojResolveAssemblyReference.cache
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_2/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_2/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe.config
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.csprojResolveAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.csprojAssemblyReference.cache
+C:/Users/300281074/Desktop/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe.config
+C:/Users/300281074/Desktop/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe
+C:/Users/300281074/Desktop/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.pdb
+C:/Users/300281074/Desktop/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.csprojAssemblyReference.cache
+C:/Users/300281074/Desktop/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:/Users/300281074/Desktop/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.exe
+C:/Users/300281074/Desktop/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/bin/Debug/SimpleCSharpConsoleApp.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/SimpleCSharpConsoleApp/SimpleCSharpConsoleApp/obj/Debug/SimpleCSharpConsoleApp.pdb

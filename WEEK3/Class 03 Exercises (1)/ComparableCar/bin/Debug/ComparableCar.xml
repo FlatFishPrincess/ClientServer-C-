@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ComparableCar</name>
+    </assembly>
+    <members>
+        <member name="M:ComparableCar.ComparableCarProgram.Main(System.String[])">
+            <summary>
+            Given an array of Cars, properly initialized, sort the array with custom comparison functions
+            using IComparable interface or an IComparer helper class
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:ComparableCar.ComparableCarProgram.DisplayAutos(CommonCar.Car[],System.String)">
+            <summary>
+            Display fields for each Car object in an array
+            </summary>
+            <param name="autos">Array holding Car objects</param>
+            <param name="header"> Optional header to be displayed on the line before Car object info</param>
+        </member>
+        <member name="T:CommonCar.Car">
+            <summary>
+            Introduce CommonCar space, which can be used by all other code in this project.
+            This is part of the CommonCar shared project
+            
+            Our trusty Car class, but this one implements IComparable
+            </summary>
+        </member>
+        <member name="F:CommonCar.Car.carIsDead">
+            <summary>
+            Is the car operational?
+            </summary>
+        </member>
+        <member name="F:CommonCar.Car.carRadio">
+            <summary>
+            All cars have a radio. 
+            </summary>
+        </member>
+        <member name="M:CommonCar.Car.#ctor(System.String,System.Int32,System.Int32)">
+            <summary>
+            Set name, speed, and id
+            </summary>
+            <param name="name">Car Name</param>
+            <param name="speed">Initial speed</param>
+            <param name="id">Car id</param>
+        </member>
+        <member name="M:CommonCar.Car.CrankTunes(System.Boolean)">
+            <summary>
+            Turn on or off the radio
+            </summary>
+            <param name="state">true to turn on, false to turn off</param>
+        </member>
+        <member name="M:CommonCar.Car.Accelerate(System.Int32)">
+            <summary>
+            Accelerate method. 
+                Tests to see if beyond max speed, and throws an exception.
+                Virtual to allow for override (custom exception)
+            </summary>
+            <param name="increasedSpeed">Amount of acceleration</param>
+        </member>
+        <member name="T:CommonCar.CarNameComparer">
+            <summary>
+            Compare the CarName of two Car objects
+            </summary>
+        </member>
+        <member name="T:CommonCar.Radio">
+            <summary>
+            Simple Radio class - can either turn it on or off using boolean
+            </summary>
+        </member>
+    </members>
+</doc>

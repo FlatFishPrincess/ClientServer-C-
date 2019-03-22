@@ -1,0 +1,19 @@
+C:/Users/mhrybyk/AppData/Local/Temporary Projects/Using Namespaces/bin/Debug/Using Namespaces.exe.config
+C:/Users/mhrybyk/AppData/Local/Temporary Projects/Using Namespaces/bin/Debug/Using Namespaces.exe
+C:/Users/mhrybyk/AppData/Local/Temporary Projects/Using Namespaces/bin/Debug/Using Namespaces.pdb
+C:/Users/mhrybyk/AppData/Local/Temporary Projects/Using Namespaces/obj/Debug/Using Namespaces.csprojResolveAssemblyReference.cache
+C:/Users/mhrybyk/AppData/Local/Temporary Projects/Using Namespaces/obj/Debug/Using Namespaces.exe
+C:/Users/mhrybyk/AppData/Local/Temporary Projects/Using Namespaces/obj/Debug/Using Namespaces.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Using Namespaces/Using Namespaces/bin/Debug/Using Namespaces.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Using Namespaces/Using Namespaces/obj/Debug/Using Namespaces.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Using Namespaces/Using Namespaces/obj/Debug/Using Namespaces.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Using Namespaces/Using Namespaces/bin/Debug/Using Namespaces.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Using Namespaces/Using Namespaces/bin/Debug/Using Namespaces.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Using Namespaces/Using Namespaces/obj/Debug/Using Namespaces.csprojResolveAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/Using Namespaces/Using Namespaces/bin/Debug/Using Namespaces.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/Using Namespaces/Using Namespaces/bin/Debug/Using Namespaces.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/Using Namespaces/Using Namespaces/bin/Debug/Using Namespaces.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/Using Namespaces/Using Namespaces/obj/Debug/Using Namespaces.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/Using Namespaces/Using Namespaces/obj/Debug/Using Namespaces.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/Using Namespaces/Using Namespaces/obj/Debug/Using Namespaces.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/Using Namespaces/Using Namespaces/obj/Debug/Using Namespaces.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CDA70F99-6579-4993-9B20-83088504B7B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Class 03 Exercises/CommonCar/CommonCar.cs">
+    <Files>
+      <File FileName="ComparableCarProgram.cs" Line="49" Column="38" />
+      <File FileName="../Class 03 Exercises/CommonCar/CommonCar.cs" Line="175" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ComparableCar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

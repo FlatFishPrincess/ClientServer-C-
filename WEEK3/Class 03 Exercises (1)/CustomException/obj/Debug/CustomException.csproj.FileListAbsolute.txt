@@ -1,0 +1,12 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\bin\Debug\CustomException.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\bin\Debug\CustomException.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\bin\Debug\CustomException.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\obj\Debug\CustomException.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_7\CustomException\obj\Debug\CustomException.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomException\bin\Debug\CustomException.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomException\bin\Debug\CustomException.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomException\bin\Debug\CustomException.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomException\obj\Debug\CustomException.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomException\obj\Debug\CustomException.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomException\obj\Debug\CustomException.pdb

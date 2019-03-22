@@ -1,0 +1,7 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ConstructXMLDocs\bin\Debug\ConstructXMLDocs.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ConstructXMLDocs\bin\Debug\ConstructXMLDocs.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ConstructXMLDocs\bin\Debug\ConstructXMLDocs.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ConstructXMLDocs\obj\Debug\ConstructXMLDocs.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ConstructXMLDocs\obj\Debug\ConstructXMLDocs.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ConstructXMLDocs\obj\Debug\ConstructXMLDocs.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ConstructXMLDocs\obj\Debug\ConstructXMLDocs.pdb

@@ -1,0 +1,6 @@
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualTypeDesignerApp/VisualTypeDesignerApp3/bin/Debug/VisualTypeDesignerApp3.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualTypeDesignerApp/VisualTypeDesignerApp3/bin/Debug/VisualTypeDesignerApp3.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualTypeDesignerApp/VisualTypeDesignerApp3/bin/Debug/VisualTypeDesignerApp3.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualTypeDesignerApp/VisualTypeDesignerApp3/obj/Debug/VisualTypeDesigner.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualTypeDesignerApp/VisualTypeDesignerApp3/obj/Debug/VisualTypeDesignerApp3.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualTypeDesignerApp/VisualTypeDesignerApp3/obj/Debug/VisualTypeDesignerApp3.pdb

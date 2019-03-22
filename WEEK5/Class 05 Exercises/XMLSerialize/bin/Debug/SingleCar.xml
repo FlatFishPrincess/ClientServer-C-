@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Car xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <theRadio>
+    <hasTweeters>false</hasTweeters>
+    <hasSubWoofers>false</hasSubWoofers>
+    <radioID>XF-552RR6</radioID>
+  </theRadio>
+  <isHatchBack>true</isHatchBack>
+  <Name>Honda</Name>
+</Car>

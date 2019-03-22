@@ -1,0 +1,23 @@
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Textbook Source Code/Chapter 21/AutoLotDAL/bin/Debug/AutoLotDAL.dll
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Textbook Source Code/Chapter 21/AutoLotDAL/bin/Debug/AutoLotDAL.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Textbook Source Code/Chapter 21/AutoLotDAL/obj/Debug/AutoLotDAL.dll
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Textbook Source Code/Chapter 21/AutoLotDAL/obj/Debug/AutoLotDAL.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/bin/Debug/Database/AutoLot2.mdf
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/bin/Debug/Database/AutoLot2_log.ldf
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/bin/Debug/AutoLotDAL.dll
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/bin/Debug/AutoLotDAL.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/obj/Debug/AutoLotDAL.csprojResolveAssemblyReference.cache
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/obj/Debug/AutoLotDAL.dll
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/obj/Debug/AutoLotDAL.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/bin/Debug/AutoLotDAL.dll
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/bin/Debug/AutoLotDAL.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/obj/Debug/AutoLotDAL.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/obj/Debug/AutoLotDAL.dll
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/obj/Debug/AutoLotDAL.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AutoLotDAL/obj/Debug/AutoLotDAL.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AutoLotDAL/bin/Debug/AutoLotDAL.dll
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AutoLotDAL/bin/Debug/AutoLotDAL.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AutoLotDAL/obj/Debug/AutoLotDAL.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AutoLotDAL/obj/Debug/AutoLotDAL.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AutoLotDAL/obj/Debug/AutoLotDAL.dll
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AutoLotDAL/obj/Debug/AutoLotDAL.pdb

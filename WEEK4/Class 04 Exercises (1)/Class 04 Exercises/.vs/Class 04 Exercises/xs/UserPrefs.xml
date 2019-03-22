@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CA7325ED-FE25-433E-98AC-034C21D5D124}|Default">
+  <MonoDevelop.Ide.ItemProperties.ActionAndFuncDelegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CarEvents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Chapter_12/LinqOverCollections/LinqOverCollectionsProgram.cs">
+    <Files>
+      <File FileName="../Chapter_10/SimpleLambdaExpressions/SimpleLambdaExpressionsProgram.cs" Line="122" Column="33" />
+      <File FileName="../Chapter_10/LambdaExpressionsMultipleParams/LambdaExpressionsMultipleParamsProgram.cs" Line="23" Column="10" />
+      <File FileName="../Chapter_12/LinqMethods/LinqMethodsProgram.cs" Line="78" Column="24" />
+      <File FileName="../Chapter_12/LinqOverCollections/LinqOverCollectionsProgram.cs" Line="26" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CarDelegate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SimpleDelegate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PublicDelegateProblem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FunWithEvents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/PublicDelegateProblem/PublicDelegateProblemProgram.cs" line="20" column="8" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GenericDelegate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SimpleLambdaExpressions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

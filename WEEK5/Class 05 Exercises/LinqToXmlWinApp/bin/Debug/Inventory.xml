@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Car carID="0">
+    <Make>Ford</Make>
+    <Color>Blue</Color>
+    <Name>Focus</Name>
+  </Car>
+  <Car carID="1">
+    <Make>VW</Make>
+    <Color>Silver</Color>
+    <Name>Beetle</Name>
+  </Car>
+  <Car carID="2">
+    <Make>Yugo</Make>
+    <Color>Pink</Color>
+    <Name>Gipper</Name>
+  </Car>
+  <Car carID="55">
+    <Make>Ford</Make>
+    <Color>Yellow</Color>
+    <Name>LTD</Name>
+  </Car>
+  <Car carID="98">
+    <Make>BMW</Make>
+    <Color>Black</Color>
+    <Name>Zippy</Name>
+  </Car>
+  <Car ID="11260">
+    <Color>Purple</Color>
+    <Make>Ford</Make>
+    <Name>Taurus</Name>
+  </Car>
+  <Car ID="2932">
+    <Color>Green</Color>
+    <Make>Ford</Make>
+    <Name>Fusion</Name>
+  </Car>
+  <Car ID="44495">
+    <Color>Pink</Color>
+    <Make>Ford</Make>
+    <Name>LTD</Name>
+  </Car>
+  <Car ID="15389">
+    <Color>Red</Color>
+    <Make>Ford</Make>
+    <Name>FreeStar</Name>
+  </Car>
+  <Car ID="12271">
+    <Color>Teal</Color>
+    <Make>BMW</Make>
+    <Name>Tellie</Name>
+  </Car>
+</Inventory>

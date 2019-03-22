@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EB181927-527D-4480-A048-41F7474DF546}|Default">
+  <MonoDevelop.Ide.ItemProperties.SalesOrder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesOrder/SalesOrderProgram.cs">
+    <Files>
+      <File FileName="SalesOrder/SalesOrderProgram.cs" Line="20" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

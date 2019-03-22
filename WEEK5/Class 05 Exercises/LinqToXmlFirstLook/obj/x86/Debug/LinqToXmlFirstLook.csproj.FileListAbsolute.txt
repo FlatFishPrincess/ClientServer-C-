@@ -1,0 +1,16 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\obj\x86\Debug\LinqToXmlFirstLook.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\bin\Debug\VbXmlLiteralLibrary.dll
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\bin\Debug\VbXmlLiteralLibrary.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\bin\Debug\VbXmlLiteralLibrary.xml
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\obj\x86\Debug\LinqToXmlFirstLook.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_24\LinqToXmlFirstLook\obj\x86\Debug\LinqToXmlFirstLook.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\LinqToXmlFirstLook\obj\x86\Debug\LinqToXmlFirstLook.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\LinqToXmlFirstLook\obj\x86\Debug\LinqToXmlFirstLook.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\LinqToXmlFirstLook\obj\x86\Debug\LinqToXmlFirstLook.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\LinqToXmlFirstLook\obj\x86\Debug\LinqToXmlFirstLook.pdb

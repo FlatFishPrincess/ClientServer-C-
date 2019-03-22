@@ -1,0 +1,14 @@
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/IterationsAndDecisions/bin/Debug/IterationsAndDecisions.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/IterationsAndDecisions/bin/Debug/IterationsAndDecisions.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/IterationsAndDecisions/bin/Debug/IterationsAndDecisions.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/IterationsAndDecisions/obj/Debug/IterationsAndDecisions.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/IterationsAndDecisions/obj/Debug/IterationsAndDecisions.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/IterationsAndDecisions/obj/Debug/IterationsAndDecisions.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/IterationsAndDecisions/obj/Debug/IterationsAndDecisions.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/IterationsAndDecisions/bin/Debug/IterationsAndDecisions.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/IterationsAndDecisions/bin/Debug/IterationsAndDecisions.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/IterationsAndDecisions/bin/Debug/IterationsAndDecisions.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/IterationsAndDecisions/obj/Debug/IterationsAndDecisions.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/IterationsAndDecisions/obj/Debug/IterationsAndDecisions.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/IterationsAndDecisions/obj/Debug/IterationsAndDecisions.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/IterationsAndDecisions/obj/Debug/IterationsAndDecisions.pdb

@@ -1,0 +1,19 @@
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/CloneablePoint/bin/Debug/CloneablePoint.exe.config
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/CloneablePoint/bin/Debug/CloneablePoint.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/CloneablePoint/bin/Debug/CloneablePoint.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/CloneablePoint/obj/Debug/CloneablePoint.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/CloneablePoint/obj/Debug/CloneablePoint.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CloneablePoint/bin/Debug/CloneablePoint.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CloneablePoint/bin/Debug/CloneablePoint.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CloneablePoint/bin/Debug/CloneablePoint.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CloneablePoint/obj/Debug/CloneablePoint.csprojAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CloneablePoint/obj/Debug/CloneablePoint.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CloneablePoint/obj/Debug/CloneablePoint.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CloneablePoint/obj/Debug/CloneablePoint.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CloneablePoint/bin/Debug/CloneablePoint.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CloneablePoint/bin/Debug/CloneablePoint.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CloneablePoint/bin/Debug/CloneablePoint.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CloneablePoint/obj/Debug/CloneablePoint.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CloneablePoint/obj/Debug/CloneablePoint.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CloneablePoint/obj/Debug/CloneablePoint.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CloneablePoint/obj/Debug/CloneablePoint.pdb

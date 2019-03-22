@@ -1,0 +1,17 @@
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.exe.config
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/GenericDelegate/obj/Debug/GenericDelegate.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/GenericDelegate/obj/Debug/GenericDelegate.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.exe.config
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/GenericDelegate/obj/Debug/GenericDelegate.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/GenericDelegate/obj/Debug/GenericDelegate.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/GenericDelegate/obj/Debug/GenericDelegate.csprojResolveAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/GenericDelegate/bin/Debug/GenericDelegate.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/GenericDelegate/obj/Debug/GenericDelegate.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/GenericDelegate/obj/Debug/GenericDelegate.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/GenericDelegate/obj/Debug/GenericDelegate.pdb

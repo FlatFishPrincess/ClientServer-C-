@@ -1,0 +1,19 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverArray\bin\Debug\LinqOverArray.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverArray\bin\Debug\LinqOverArray.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverArray\obj\Debug\LinqOverArray.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverArray\obj\Debug\LinqOverArray.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter 12\LinqOverArray\obj\Debug\LinqOverArray.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverArray\obj\Debug\LinqOverArray.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverArray\obj\Debug\LinqOverArray.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverArray\bin\Debug\LinqOverArray.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverArray\bin\Debug\LinqOverArray.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_12\LinqOverArray\obj\Debug\LinqOverArray.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_12\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_12\LinqOverArray\bin\Debug\LinqOverArray.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_12\LinqOverArray\bin\Debug\LinqOverArray.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_12\LinqOverArray\obj\Debug\LinqOverArray.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_12\LinqOverArray\obj\Debug\LinqOverArray.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_12\LinqOverArray\obj\Debug\LinqOverArray.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_12\LinqOverArray\obj\Debug\LinqOverArray.pdb

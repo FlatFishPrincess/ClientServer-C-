@@ -1,0 +1,7 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomInterface\bin\Debug\CustomInterface.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomInterface\bin\Debug\CustomInterface.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomInterface\obj\Debug\CustomInterfaces.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomInterface\obj\Debug\CustomInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomInterface\obj\Debug\CustomInterface.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomInterface\obj\Debug\CustomInterface.pdb

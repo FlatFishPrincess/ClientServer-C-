@@ -1,0 +1,19 @@
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/bin/Debug/AdoNetTransaction.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/bin/Debug/AdoNetTransaction.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/bin/Debug/AdoNetTransaction.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/bin/Debug/AutoLotDAL.dll
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/bin/Debug/AutoLotDAL.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/obj/Debug/AdoNetTransaction.csprojResolveAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/obj/Debug/AdoNetTransaction.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/obj/Debug/AdoNetTransaction.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 06/AdoNetTransaction/obj/Debug/AdoNetTransaction.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/bin/Debug/AdoNetTransaction.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/bin/Debug/AdoNetTransaction.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/bin/Debug/AdoNetTransaction.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/bin/Debug/AutoLotDAL.dll
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/bin/Debug/AutoLotDAL.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/obj/Debug/AdoNetTransaction.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/obj/Debug/AdoNetTransaction.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/obj/Debug/AdoNetTransaction.csproj.CopyComplete
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/obj/Debug/AdoNetTransaction.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK6/Class 06 Exercises (1)/AdoNetTransaction/obj/Debug/AdoNetTransaction.pdb

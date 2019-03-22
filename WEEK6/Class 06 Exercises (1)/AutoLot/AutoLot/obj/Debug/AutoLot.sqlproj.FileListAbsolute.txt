@@ -1,0 +1,28 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\bin\Debug\AutoLot.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\bin\Debug\AutoLot.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\bin\Debug\AutoLot.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\obj\Debug\AutoLot.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\obj\Debug\AutoLot.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\obj\Debug\Model.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\obj\Debug\refactor.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\obj\Debug\postdeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\AutoLot\AutoLot\obj\Debug\predeploy.sql
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\bin\Debug\AutoLot.dacpac
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\bin\Debug\AutoLot.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\bin\Debug\AutoLot.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\AutoLot.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\AutoLot.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\Model.xml
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\refactor.xml
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\postdeploy.sql
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\predeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\bin\Debug\AutoLot.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\bin\Debug\AutoLot.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\bin\Debug\AutoLot.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\Model.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\refactor.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\postdeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\predeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\AutoLot.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\AutoLot.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLot\AutoLot\obj\Debug\AutoLot.sqlprojAssemblyReference.cache

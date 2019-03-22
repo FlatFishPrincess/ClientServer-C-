@@ -1,0 +1,11 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\bin\Debug\SimpleSerialize.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\bin\Debug\SimpleSerialize.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\obj\Debug\SimpleSerialize.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\obj\Debug\SimpleSerialize.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_20\SimpleSerialize\obj\Debug\SimpleSerialize.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\XMLSerialize\bin\Debug\SimpleSerialize.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\XMLSerialize\bin\Debug\SimpleSerialize.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\XMLSerialize\obj\Debug\SimpleSerialize.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\XMLSerialize\obj\Debug\SimpleSerialize.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\XMLSerialize\obj\Debug\SimpleSerialize.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\XMLSerialize\obj\Debug\SimpleSerialize.pdb

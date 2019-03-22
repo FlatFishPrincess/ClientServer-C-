@@ -1,0 +1,20 @@
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/ICloneableExample/bin/Debug/ICloneableExample.exe.config
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/ICloneableExample/bin/Debug/ICloneableExample.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/ICloneableExample/bin/Debug/ICloneableExample.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/ICloneableExample/obj/Debug/ICloneableExample.csprojResolveAssemblyReference.cache
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/ICloneableExample/obj/Debug/ICloneableExample.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_8/ICloneableExample/obj/Debug/ICloneableExample.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/ICloneableExample/bin/Debug/ICloneableExample.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/ICloneableExample/bin/Debug/ICloneableExample.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/ICloneableExample/bin/Debug/ICloneableExample.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/ICloneableExample/obj/Debug/ICloneableExample.csprojAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/ICloneableExample/obj/Debug/ICloneableExample.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/ICloneableExample/obj/Debug/ICloneableExample.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/ICloneableExample/obj/Debug/ICloneableExample.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/ICloneableExample/bin/Debug/ICloneableExample.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/ICloneableExample/bin/Debug/ICloneableExample.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/ICloneableExample/bin/Debug/ICloneableExample.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/ICloneableExample/obj/Debug/ICloneableExample.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/ICloneableExample/obj/Debug/ICloneableExample.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/ICloneableExample/obj/Debug/ICloneableExample.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/ICloneableExample/obj/Debug/ICloneableExample.pdb

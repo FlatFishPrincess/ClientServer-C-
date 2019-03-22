@@ -1,0 +1,12 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.pdb

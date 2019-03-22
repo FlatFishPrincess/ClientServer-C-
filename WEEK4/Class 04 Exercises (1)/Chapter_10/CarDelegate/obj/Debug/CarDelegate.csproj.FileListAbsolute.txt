@@ -1,0 +1,18 @@
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/CarDelegate/bin/Debug/CarDelegate.exe.config
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/CarDelegate/bin/Debug/CarDelegate.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/CarDelegate/bin/Debug/CarDelegate.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/CarDelegate/obj/Debug/CarDelegate.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_10/CarDelegate/obj/Debug/CarDelegate.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/CarDelegate/bin/Debug/CarDelegate.exe.config
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/CarDelegate/bin/Debug/CarDelegate.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/CarDelegate/bin/Debug/CarDelegate.pdb
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/CarDelegate/obj/Debug/CarDelegate.csprojResolveAssemblyReference.cache
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/CarDelegate/obj/Debug/CarDelegate.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 04/Chapter_10/CarDelegate/obj/Debug/CarDelegate.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/CarDelegate/bin/Debug/CarDelegate.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/CarDelegate/bin/Debug/CarDelegate.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/CarDelegate/bin/Debug/CarDelegate.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/CarDelegate/obj/Debug/CarDelegate.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/CarDelegate/obj/Debug/CarDelegate.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/CarDelegate/obj/Debug/CarDelegate.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK4/Class 04 Exercises (1)/Chapter_10/CarDelegate/obj/Debug/CarDelegate.pdb

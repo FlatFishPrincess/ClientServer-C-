@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EE0B6A60-62B4-4F26-A691-586E3E66EABB}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdoNetTransaction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../AutoLotDAL/ConnectedLayer/InventoryDAL.cs">
+    <Files>
+      <File FileName="../../AutoLotDAL/ConnectedLayer/InventoryDAL.cs" Line="37" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

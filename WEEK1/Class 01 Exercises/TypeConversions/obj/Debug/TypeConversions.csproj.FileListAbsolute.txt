@@ -1,0 +1,7 @@
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/TypeConversions/bin/Debug/TypeConversions.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/TypeConversions/bin/Debug/TypeConversions.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/TypeConversions/bin/Debug/TypeConversions.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/TypeConversions/bin/Debug/TypeConversions.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/TypeConversions/obj/Debug/TypeConversions.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/TypeConversions/obj/Debug/TypeConversions.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/TypeConversions/obj/Debug/TypeConversions.pdb

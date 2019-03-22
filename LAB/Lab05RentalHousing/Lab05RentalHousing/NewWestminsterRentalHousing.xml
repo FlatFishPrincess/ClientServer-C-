@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNewWestminsterRentalHousing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NewWestminsterRentalHousing>
+    <BuildingId>3768</BuildingId>
+    <Address>1221 CAMERON ST</Address>
+    <BuildingName>PINE CREST</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3735</BuildingId>
+    <Address>1210 CAMERON ST</Address>
+    <BuildingName>CHAND APARTMENTS</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3769</BuildingId>
+    <Address>1211 CAMERON ST</Address>
+    <BuildingName>CAMERON MANOR</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3754</BuildingId>
+    <Address>1321 CARIBOO ST</Address>
+    <BuildingName>8 SUITES</BuildingName>
+    <NumberOfResidences>8</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3687</BuildingId>
+    <Address>410 EIGHTH ST</Address>
+    <BuildingName>DUNCAN MANOR</BuildingName>
+    <NumberOfResidences>11</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3030</BuildingId>
+    <Address>230 EIGHTH ST</Address>
+    <BuildingName>ROSEMOUNT MANOR</BuildingName>
+    <NumberOfResidences>18</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3031</BuildingId>
+    <Address>236 EIGHTH ST</Address>
+    <BuildingName>DORIC MANOR</BuildingName>
+    <NumberOfResidences>40</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3406</BuildingId>
+    <Address>340 EIGHTH ST</Address>
+    <BuildingName>CAMEO COURT</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4655</BuildingId>
+    <Address>508 EIGHTH ST</Address>
+    <BuildingName>LIBBY MANOR APARTMENT</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3285</BuildingId>
+    <Address>310 EIGHTH ST</Address>
+    <BuildingName>KENNEDY PLACE</BuildingName>
+    <NumberOfResidences>51</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4653</BuildingId>
+    <Address>520 EIGHTH ST</Address>
+    <BuildingName>CEDAR GROVE APARTMENT</BuildingName>
+    <NumberOfResidences>56</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3722</BuildingId>
+    <Address>433 ELEVENTH ST</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3780</BuildingId>
+    <Address>430 ELEVENTH ST</Address>
+    <BuildingName>PARK ASTORIA (FORMERLY CLINTON MANOR)</BuildingName>
+    <NumberOfResidences>35</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4696</BuildingId>
+    <Address>516 ELEVENTH ST</Address>
+    <BuildingName>DEL VUE COURT</BuildingName>
+    <NumberOfResidences>35</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4699</BuildingId>
+    <Address>520 ELEVENTH ST</Address>
+    <BuildingName>WEST COAST APARTMENT</BuildingName>
+    <NumberOfResidences>51</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3727</BuildingId>
+    <Address>420 ELEVENTH ST</Address>
+    <BuildingName>MON TRU MANOR</BuildingName>
+    <NumberOfResidences>59</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4683</BuildingId>
+    <Address>525 ELEVENTH ST</Address>
+    <BuildingName>CHELSEA PLACE</BuildingName>
+    <NumberOfResidences>73</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3755</BuildingId>
+    <Address>1320 FIFTH AVE</Address>
+    <BuildingName>WESTVIEW APARTMENTS</BuildingName>
+    <NumberOfResidences>13</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3756</BuildingId>
+    <Address>1314 FIFTH AVE</Address>
+    <BuildingName>THE SOUTHVIEW</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3766</BuildingId>
+    <Address>1222 FIFTH AVE</Address>
+    <BuildingName>SUNSET APARTMENTS</BuildingName>
+    <NumberOfResidences>21</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3765</BuildingId>
+    <Address>1218 FIFTH AVE</Address>
+    <BuildingName>MARINE VIEW MANOR</BuildingName>
+    <NumberOfResidences>22</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3804</BuildingId>
+    <Address>820 FIFTH AVE</Address>
+    <BuildingName>OAK RIVER MANOR</BuildingName>
+    <NumberOfResidences>26</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3720</BuildingId>
+    <Address>1030 FIFTH AVE</Address>
+    <BuildingName>THE CALYPSO</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3719</BuildingId>
+    <Address>1016 FIFTH AVE</Address>
+    <BuildingName>CANTERBURY COURT</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3791</BuildingId>
+    <Address>910 FIFTH AVE</Address>
+    <BuildingName>GROSVENOR COURT</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3796</BuildingId>
+    <Address>810 FIFTH AVE</Address>
+    <BuildingName>PINE RIVER MANOR</BuildingName>
+    <NumberOfResidences>44</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4659</BuildingId>
+    <Address>911 FIFTH AVE</Address>
+    <BuildingName>ESSEX HOUSE</BuildingName>
+    <NumberOfResidences>49</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4656</BuildingId>
+    <Address>815 FIFTH AVE</Address>
+    <BuildingName>THE CARM-ELLE APARTMENT</BuildingName>
+    <NumberOfResidences>60</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3737</BuildingId>
+    <Address>1215 FOURTH AVE</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3347</BuildingId>
+    <Address>1012 FOURTH AVE</Address>
+    <BuildingName>THE GREGORY</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3343</BuildingId>
+    <Address>1026 FOURTH AVE</Address>
+    <BuildingName>PARKLAND VILLA</BuildingName>
+    <NumberOfResidences>26</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3734</BuildingId>
+    <Address>1205 FOURTH AVE</Address>
+    <BuildingName>RIVERSIDE COURT</BuildingName>
+    <NumberOfResidences>33</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3723</BuildingId>
+    <Address>1115 FOURTH AVE</Address>
+    <BuildingName>TIFFANY PLACE(FORMER HANCER MANOR)</BuildingName>
+    <NumberOfResidences>35</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3695</BuildingId>
+    <Address>1033 FOURTH AVE</Address>
+    <BuildingName>ROYAL TERRACE</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3696</BuildingId>
+    <Address>1021 FOURTH AVE</Address>
+    <BuildingName>THE WESTPORT</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3689</BuildingId>
+    <Address>905 FOURTH AVE</Address>
+    <BuildingName>PINECREST MANOR</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3405</BuildingId>
+    <Address>814 FOURTH AVE</Address>
+    <BuildingName>SAN MATEO APARTMENT</BuildingName>
+    <NumberOfResidences>54</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4672</BuildingId>
+    <Address>1021 HOWAY ST</Address>
+    <BuildingName>PRINCETON PLACE (FORMERLYCHILCOTIN COURT</BuildingName>
+    <NumberOfResidences>108</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3802</BuildingId>
+    <Address>441 NINTH ST</Address>
+    <BuildingName>PAMELA HOUSE</BuildingName>
+    <NumberOfResidences>12</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4660</BuildingId>
+    <Address>502 NINTH ST</Address>
+    <BuildingName>ROSE WOOD MANOR</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4657</BuildingId>
+    <Address>505 NINTH ST</Address>
+    <BuildingName>PARKHURST MANOR</BuildingName>
+    <NumberOfResidences>26</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4663</BuildingId>
+    <Address>520 NINTH ST</Address>
+    <BuildingName>BURTON MANOR</BuildingName>
+    <NumberOfResidences>35</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4661</BuildingId>
+    <Address>510 NINTH ST</Address>
+    <BuildingName>BERWYN MANOR</BuildingName>
+    <NumberOfResidences>36</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4658</BuildingId>
+    <Address>515 NINTH ST</Address>
+    <BuildingName>DAYLIN VILLA</BuildingName>
+    <NumberOfResidences>47</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3301</BuildingId>
+    <Address>320 NINTH ST</Address>
+    <BuildingName>VILLA MARGARITA</BuildingName>
+    <NumberOfResidences>56</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4652</BuildingId>
+    <Address>525 NINTH ST</Address>
+    <BuildingName>PARK TOWER SOUTH</BuildingName>
+    <NumberOfResidences>112</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>374</BuildingId>
+    <Address>912 QUEENS AVE</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>343</BuildingId>
+    <Address>831 ROYAL AVE</Address>
+    <BuildingName>HILLSIDE APARTMENTS</BuildingName>
+    <NumberOfResidences>8</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>347</BuildingId>
+    <Address>845 ROYAL AVE</Address>
+    <BuildingName>TELFORD BLOCK</BuildingName>
+    <NumberOfResidences>11</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4455</BuildingId>
+    <Address>1726 SIXTH AVE</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4359</BuildingId>
+    <Address>1402 SIXTH AVE</Address>
+    <BuildingName>ROYAL CITY APARTMENTS</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4670</BuildingId>
+    <Address>1002 SIXTH AVE</Address>
+    <BuildingName>THE KEY WEST</BuildingName>
+    <NumberOfResidences>21</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4671</BuildingId>
+    <Address>1010 SIXTH AVE</Address>
+    <BuildingName>THE GARDEN VILLA</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4682</BuildingId>
+    <Address>1020 SIXTH AVE</Address>
+    <BuildingName>THE VILLA WASCANA</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4668</BuildingId>
+    <Address>908 SIXTH AVE</Address>
+    <BuildingName>SKY VIEW MANOR</BuildingName>
+    <NumberOfResidences>43</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4651</BuildingId>
+    <Address>820 SIXTH AVE</Address>
+    <BuildingName>PARKVIEW TOWER NORTH</BuildingName>
+    <NumberOfResidences>113</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3704</BuildingId>
+    <Address>1024 ST. ANDREWS ST</Address>
+    <BuildingName>PARKCREST COURT</BuildingName>
+    <NumberOfResidences>23</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3703</BuildingId>
+    <Address>1010 ST. ANDREWS ST</Address>
+    <BuildingName>THE TWIN HOLLEYS</BuildingName>
+    <NumberOfResidences>43</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3710</BuildingId>
+    <Address>1025 ST. ANDREWS ST</Address>
+    <BuildingName>ST ANDREW'S MANOR</BuildingName>
+    <NumberOfResidences>48</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3686</BuildingId>
+    <Address>810 ST. ANDREWS ST</Address>
+    <BuildingName>TANTUS TOWERS</BuildingName>
+    <NumberOfResidences>117</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3306</BuildingId>
+    <Address>304 TENTH ST</Address>
+    <BuildingName>MERCER BLOCK</BuildingName>
+    <NumberOfResidences>5</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3698</BuildingId>
+    <Address>402 TENTH ST</Address>
+    <BuildingName>THE DOGWOODS</BuildingName>
+    <NumberOfResidences>13</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4662</BuildingId>
+    <Address>509 TENTH ST</Address>
+    <BuildingName>MAGISTRADO MANOR</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3784</BuildingId>
+    <Address>425 TENTH ST</Address>
+    <BuildingName>MERRIE HOLLET'S APARTMENT</BuildingName>
+    <NumberOfResidences>25</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4666</BuildingId>
+    <Address>525 TENTH ST</Address>
+    <BuildingName>THE SOMERSET</BuildingName>
+    <NumberOfResidences>25</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4667</BuildingId>
+    <Address>529 TENTH ST</Address>
+    <BuildingName>PARK VILLA</BuildingName>
+    <NumberOfResidences>25</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3688</BuildingId>
+    <Address>405 TENTH ST</Address>
+    <BuildingName>THE HILLCROFT APARTMENT</BuildingName>
+    <NumberOfResidences>27</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4664</BuildingId>
+    <Address>517 TENTH ST</Address>
+    <BuildingName>BIRCHWOOD MANOR</BuildingName>
+    <NumberOfResidences>32</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3303</BuildingId>
+    <Address>333 TENTH ST</Address>
+    <BuildingName>TERRACES ON TENTH</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3304</BuildingId>
+    <Address>321 TENTH ST</Address>
+    <BuildingName>THE PANORAMA</BuildingName>
+    <NumberOfResidences>43</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3715</BuildingId>
+    <Address>426 TENTH ST</Address>
+    <BuildingName>THE BALI HAI</BuildingName>
+    <NumberOfResidences>43</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4669</BuildingId>
+    <Address>520 TENTH ST</Address>
+    <BuildingName>THE LYNN GARY</BuildingName>
+    <NumberOfResidences>50</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3314</BuildingId>
+    <Address>1031 THIRD AVE</Address>
+    <BuildingName>4 SUITES</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3023</BuildingId>
+    <Address>808 THIRD AVE</Address>
+    <BuildingName>DENNIS HOUSE</BuildingName>
+    <NumberOfResidences>15</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3308</BuildingId>
+    <Address>1015 THIRD AVE</Address>
+    <BuildingName>HOLLY APARTMENTS</BuildingName>
+    <NumberOfResidences>23</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3307</BuildingId>
+    <Address>1009 THIRD AVE</Address>
+    <BuildingName>APARTMENTS</BuildingName>
+    <NumberOfResidences>35</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3286</BuildingId>
+    <Address>811 THIRD AVE</Address>
+    <BuildingName>TOWNE HOUSE</BuildingName>
+    <NumberOfResidences>44</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3767</BuildingId>
+    <Address>425 THIRTEENTH ST</Address>
+    <BuildingName>4 SUITES</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4746</BuildingId>
+    <Address>502 THIRTEENTH ST</Address>
+    <BuildingName>CERALDI APARTMENTS</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4741</BuildingId>
+    <Address>540 THIRTEENTH ST</Address>
+    <BuildingName>THE ARVA ANNA</BuildingName>
+    <NumberOfResidences>12</NumberOfResidences>
+    <Neighborhood>BROW OF THE HILL</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>984</BuildingId>
+    <Address>418 ROUSSEAU ST</Address>
+    <BuildingName>4 SUITES</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>BRUNETTE CREEK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>8296</BuildingId>
+    <Address>2202 HAMILTON ST</Address>
+    <BuildingName>ROOMING HOUSE/6 SUITES</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>CONNAUGHT HEIGHTS</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>8350</BuildingId>
+    <Address>730 TWENTIETH ST</Address>
+    <BuildingName>MIKE O RAY HOLDINGS APARTMENTS</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>CONNAUGHT HEIGHTS</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>194</BuildingId>
+    <Address>250 AGNES ST</Address>
+    <BuildingName>HOLLY MANOR</BuildingName>
+    <NumberOfResidences>9</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>105</BuildingId>
+    <Address>338 AGNES ST</Address>
+    <BuildingName>ARABELLE APARTMENTS</BuildingName>
+    <NumberOfResidences>11</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>234</BuildingId>
+    <Address>325 AGNES ST</Address>
+    <BuildingName>LYNWOOD APARTMENT/HERRING HOME</BuildingName>
+    <NumberOfResidences>12</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>199</BuildingId>
+    <Address>204 AGNES ST</Address>
+    <BuildingName>THE FERNS</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>197</BuildingId>
+    <Address>212 AGNES ST</Address>
+    <BuildingName>BAINES PLAZA</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>233</BuildingId>
+    <Address>321 AGNES ST</Address>
+    <BuildingName>PRINCE CHARLES APARTMENT</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>236</BuildingId>
+    <Address>331 AGNES ST</Address>
+    <BuildingName>COMERFORD APARTMENTS</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>396</BuildingId>
+    <Address>503 AGNES ST</Address>
+    <BuildingName>BEL AIR APARTMENT</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>247</BuildingId>
+    <Address>111 AGNES ST</Address>
+    <BuildingName>LANAI LODGE</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>250</BuildingId>
+    <Address>125 AGNES ST</Address>
+    <BuildingName>EARL'S COURT</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>251</BuildingId>
+    <Address>129 AGNES ST</Address>
+    <BuildingName>RUNDLE MANOR</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>198</BuildingId>
+    <Address>210 AGNES ST</Address>
+    <BuildingName>ELLIOT MANOR</BuildingName>
+    <NumberOfResidences>18</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>235</BuildingId>
+    <Address>327 AGNES ST</Address>
+    <BuildingName>MAGER APARTMENT</BuildingName>
+    <NumberOfResidences>18</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>400</BuildingId>
+    <Address>403 AGNES ST</Address>
+    <BuildingName>THE BUENA VISTA</BuildingName>
+    <NumberOfResidences>18</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>430</BuildingId>
+    <Address>57 AGNES ST</Address>
+    <BuildingName>THE ANTHONY</BuildingName>
+    <NumberOfResidences>18</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>230</BuildingId>
+    <Address>307 AGNES ST</Address>
+    <BuildingName>MARILYN MANOR</BuildingName>
+    <NumberOfResidences>21</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>231</BuildingId>
+    <Address>309 AGNES ST</Address>
+    <BuildingName>RENMAR MANOR</BuildingName>
+    <NumberOfResidences>21</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>399</BuildingId>
+    <Address>407 AGNES ST</Address>
+    <BuildingName>ROYAL EAGLE APARTMENTS</BuildingName>
+    <NumberOfResidences>22</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>398</BuildingId>
+    <Address>411 AGNES ST</Address>
+    <BuildingName>MARGO APARTMENT</BuildingName>
+    <NumberOfResidences>22</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>9338</BuildingId>
+    <Address>315 AGNES ST</Address>
+    <BuildingName>ROYAL RIDGE APARTMENTS(RIVERSIDE MANOR)</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>122</BuildingId>
+    <Address>102 AGNES ST</Address>
+    <BuildingName>VICTORIA HOUSE</BuildingName>
+    <NumberOfResidences>80</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>123</BuildingId>
+    <Address>120 AGNES ST</Address>
+    <BuildingName>VICTORIA HOUSE</BuildingName>
+    <NumberOfResidences>80</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>118</BuildingId>
+    <Address>202 CARNARVON ST</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>116</BuildingId>
+    <Address>206 CARNARVON ST</Address>
+    <BuildingName>NYGREN MANOR</BuildingName>
+    <NumberOfResidences>12</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>189</BuildingId>
+    <Address>313 CARNARVON ST</Address>
+    <BuildingName>BRIDGEVIEW COURT</BuildingName>
+    <NumberOfResidences>12</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>188</BuildingId>
+    <Address>311 CARNARVON ST</Address>
+    <BuildingName>THE SUMMIT</BuildingName>
+    <NumberOfResidences>13</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>200</BuildingId>
+    <Address>201 CARNARVON ST</Address>
+    <BuildingName>THE NORGE APARTMENT</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>201</BuildingId>
+    <Address>205 CARNARVON ST</Address>
+    <BuildingName>EMERALD COURT</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>203</BuildingId>
+    <Address>215 CARNARVON ST</Address>
+    <BuildingName>CARNARVON APARTMENT</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>107</BuildingId>
+    <Address>320 CARNARVON ST</Address>
+    <BuildingName>CORONATION COURT</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>108</BuildingId>
+    <Address>320 CARNARVON ST</Address>
+    <BuildingName>CORONATION COURT</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>170</BuildingId>
+    <Address>737 CARNARVON ST</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>106</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>415</BuildingId>
+    <Address>425 CARNARVON ST</Address>
+    <BuildingName>THE IMPERIAL</BuildingName>
+    <NumberOfResidences>100</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>432</BuildingId>
+    <Address>76 COBURG ST</Address>
+    <BuildingName>McCALLUM HOUSE</BuildingName>
+    <NumberOfResidences>12</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>254</BuildingId>
+    <Address>73 COBURG ST</Address>
+    <BuildingName>THE BIRCHES APARTMENT</BuildingName>
+    <NumberOfResidences>23</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>414</BuildingId>
+    <Address>52 FOURTH ST</Address>
+    <BuildingName>CROWN TOWERS</BuildingName>
+    <NumberOfResidences>77</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>137</BuildingId>
+    <Address>44 LEOPOLD PL</Address>
+    <BuildingName>CLARK MANOR</BuildingName>
+    <NumberOfResidences>11</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>185</BuildingId>
+    <Address>56 MERIVALE ST</Address>
+    <BuildingName>RIVERVIEW MANOR</BuildingName>
+    <NumberOfResidences>15</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>255</BuildingId>
+    <Address>42 ROYAL AVE</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>132</BuildingId>
+    <Address>30 ROYAL AVE</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>433</BuildingId>
+    <Address>52 ROYAL AVE</Address>
+    <BuildingName>CANERO CASTILLO APARTMENTS</BuildingName>
+    <NumberOfResidences>20</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>421</BuildingId>
+    <Address>521 VICTORIA ST</Address>
+    <BuildingName>IRWIN APARTMENTS</BuildingName>
+    <NumberOfResidences>9</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6020</BuildingId>
+    <Address>619 COLBORNE ST</Address>
+    <BuildingName>APARTMENTS</BuildingName>
+    <NumberOfResidences>9</NumberOfResidences>
+    <Neighborhood>GLENBROOKE NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6021</BuildingId>
+    <Address>617 COLBORNE ST</Address>
+    <BuildingName>SILVER BIRCH APARTMENTS</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>GLENBROOKE NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6019</BuildingId>
+    <Address>621 COLBORNE ST</Address>
+    <BuildingName>COLBORNE APARTMENT</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>GLENBROOKE NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6018</BuildingId>
+    <Address>615 COLBORNE ST</Address>
+    <BuildingName>QUEEN'S PARK MANOR</BuildingName>
+    <NumberOfResidences>44</NumberOfResidences>
+    <Neighborhood>GLENBROOKE NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4848</BuildingId>
+    <Address>1121 HAMILTON ST</Address>
+    <BuildingName>THE FRASERVIEW APARTMENT</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4845</BuildingId>
+    <Address>1117 HAMILTON ST</Address>
+    <BuildingName>THE HAMILTON</BuildingName>
+    <NumberOfResidences>21</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4849</BuildingId>
+    <Address>1116 HAMILTON ST</Address>
+    <BuildingName>THE HOLLY TREE APARTMENTS</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4779</BuildingId>
+    <Address>1019 NANAIMO ST</Address>
+    <BuildingName>PARK TERRACE APARTMENT</BuildingName>
+    <NumberOfResidences>21</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4864</BuildingId>
+    <Address>1115 SEVENTH AVE</Address>
+    <BuildingName>SACIO APARTMENTS</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4767</BuildingId>
+    <Address>1007 SIXTH AVE</Address>
+    <BuildingName>APARTMENTS</BuildingName>
+    <NumberOfResidences>8</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4766</BuildingId>
+    <Address>1009 SIXTH AVE</Address>
+    <BuildingName>8 SUITES</BuildingName>
+    <NumberOfResidences>8</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4769</BuildingId>
+    <Address>1001 SIXTH AVE</Address>
+    <BuildingName>THE CRESTVIEW</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4771</BuildingId>
+    <Address>634 TENTH ST</Address>
+    <BuildingName>4 SUITES</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4770</BuildingId>
+    <Address>608 TENTH ST</Address>
+    <BuildingName>PARK VIEW MANOR APARTMENT</BuildingName>
+    <NumberOfResidences>11</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>5138</BuildingId>
+    <Address>913 TWELFTH ST</Address>
+    <BuildingName>ARKLE HOUSE</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>5187</BuildingId>
+    <Address>833 TWELFTH ST</Address>
+    <BuildingName>WHITE HOUSE</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>5161</BuildingId>
+    <Address>941 TWELFTH ST</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>5160</BuildingId>
+    <Address>929 TWELFTH ST</Address>
+    <BuildingName>THE GALBRAITH</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4885</BuildingId>
+    <Address>625 TWELFTH ST</Address>
+    <BuildingName>ROSE MANOR</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>5140</BuildingId>
+    <Address>909 TWELFTH ST</Address>
+    <BuildingName>STAPLES BLOCK</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4886</BuildingId>
+    <Address>629 TWELFTH ST</Address>
+    <BuildingName>FLORENCE APARTMENT</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4882</BuildingId>
+    <Address>621 TWELFTH ST</Address>
+    <BuildingName>CYPRESS APARTMENTS</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>KELVIN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3378</BuildingId>
+    <Address>1212 FOURTH AVE</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>NORTH ARM NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3383</BuildingId>
+    <Address>1216 FOURTH AVE</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>NORTH ARM NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3382</BuildingId>
+    <Address>331 THIRTEENTH ST</Address>
+    <BuildingName>4 SUITES</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>NORTH ARM NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3384</BuildingId>
+    <Address>335 THIRTEENTH ST</Address>
+    <BuildingName>AMBROSE APARTMENT</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>NORTH ARM NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3374</BuildingId>
+    <Address>338 TWELFTH ST</Address>
+    <BuildingName>HILLCREST LODE APARTMENTS</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>NORTH ARM NORTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>9142</BuildingId>
+    <Address>200 SALTER ST</Address>
+    <BuildingName>DOCKYARDS - BUILDING 1</BuildingName>
+    <NumberOfResidences>32</NumberOfResidences>
+    <Neighborhood>NORTH ARM SOUTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>9204</BuildingId>
+    <Address>202 SALTER ST</Address>
+    <BuildingName>DOCKYARDS - BUILDING 2</BuildingName>
+    <NumberOfResidences>97</NumberOfResidences>
+    <Neighborhood>NORTH ARM SOUTH</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3253</BuildingId>
+    <Address>507 BLACKFORD ST</Address>
+    <BuildingName>Wilmot Cottage</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3632</BuildingId>
+    <Address>401 FIFTH ST</Address>
+    <BuildingName>ST. JAMES APARTMENT</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3206</BuildingId>
+    <Address>335 FIFTH ST</Address>
+    <BuildingName>MARTIN MANOR APARTMENT</BuildingName>
+    <NumberOfResidences>26</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3210</BuildingId>
+    <Address>328 FOURTH ST</Address>
+    <BuildingName>ROBERT LANE HOUSE</BuildingName>
+    <NumberOfResidences>8</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>264</BuildingId>
+    <Address>228 MANITOBA ST</Address>
+    <BuildingName>VILLA SAVERIO</BuildingName>
+    <NumberOfResidences>8</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>265</BuildingId>
+    <Address>220 MANITOBA ST</Address>
+    <BuildingName>TIPPERARY APARTMENT</BuildingName>
+    <NumberOfResidences>18</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>456</BuildingId>
+    <Address>119 PARK ROW</Address>
+    <BuildingName>THE PARK ROW</BuildingName>
+    <NumberOfResidences>19</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>261</BuildingId>
+    <Address>217 ROYAL AVE</Address>
+    <BuildingName>ROYAL VIEW MANOR</BuildingName>
+    <NumberOfResidences>19</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>438</BuildingId>
+    <Address>101 ROYAL AVE</Address>
+    <BuildingName>REDWOOD APARTMENT</BuildingName>
+    <NumberOfResidences>48</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>439</BuildingId>
+    <Address>55 ROYAL AVE</Address>
+    <BuildingName>ROYAL CLINTON</BuildingName>
+    <NumberOfResidences>59</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>262</BuildingId>
+    <Address>225 ROYAL AVE</Address>
+    <BuildingName>ROYAL CITY APARTMENT</BuildingName>
+    <NumberOfResidences>64</NumberOfResidences>
+    <Neighborhood>DOWNTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3104</BuildingId>
+    <Address>226 SECOND ST</Address>
+    <BuildingName>ARTHUR WELLESLEY GRAY HOUSE</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>291</BuildingId>
+    <Address>115 SECOND ST</Address>
+    <BuildingName>QUEEN'S COURT</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3132</BuildingId>
+    <Address>305 SECOND ST</Address>
+    <BuildingName>ROSEMONT APARTMENT</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>516</BuildingId>
+    <Address>514 THIRD AVE</Address>
+    <BuildingName>DR. E. F. DENTLEY HOUSE</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3197</BuildingId>
+    <Address>417 THIRD AVE</Address>
+    <BuildingName>ISAAC E. HUDSON HOUSE</BuildingName>
+    <NumberOfResidences>7</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3220</BuildingId>
+    <Address>411 THIRD AVE</Address>
+    <BuildingName>H. A. EASTMAN HOUSE</BuildingName>
+    <NumberOfResidences>11</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3156</BuildingId>
+    <Address>317 THIRD AVE</Address>
+    <BuildingName>CARLTON COURT</BuildingName>
+    <NumberOfResidences>25</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>509</BuildingId>
+    <Address>418 THIRD AVE</Address>
+    <BuildingName>THE SELKMARK</BuildingName>
+    <NumberOfResidences>25</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>272</BuildingId>
+    <Address>131 THIRD ST</Address>
+    <BuildingName>H. SCHAAKE HOUSE</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3079</BuildingId>
+    <Address>240 THIRD ST</Address>
+    <BuildingName>MAPLE MANOR</BuildingName>
+    <NumberOfResidences>15</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3092</BuildingId>
+    <Address>241 TOWNSEND PL</Address>
+    <BuildingName>B.W. SHILES HOUSE</BuildingName>
+    <NumberOfResidences>9</NumberOfResidences>
+    <Neighborhood>QUEENS PARK</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1408</BuildingId>
+    <Address>307 CEDAR ST</Address>
+    <BuildingName>KILIK BLOCK</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>9074</BuildingId>
+    <Address>345 CEDAR ST</Address>
+    <BuildingName>CEDAR STREET APARTMENT</BuildingName>
+    <NumberOfResidences>47</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>728</BuildingId>
+    <Address>422 E COLUMBIA ST</Address>
+    <BuildingName>APARTMENTS</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>749</BuildingId>
+    <Address>474 E COLUMBIA ST</Address>
+    <BuildingName>APARTMENTS</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1355</BuildingId>
+    <Address>321 E COLUMBIA ST</Address>
+    <BuildingName>WELCH BLOCK</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1231</BuildingId>
+    <Address>119 E COLUMBIA ST</Address>
+    <BuildingName>RIVERVIEW APARTMENTS</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1431</BuildingId>
+    <Address>466 GRIFFITHS PL</Address>
+    <BuildingName>GRIFFITHS PLACE</BuildingName>
+    <NumberOfResidences>5</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1432</BuildingId>
+    <Address>460 GRIFFITHS PL</Address>
+    <BuildingName>GRIFFITHS COURT</BuildingName>
+    <NumberOfResidences>22</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1436</BuildingId>
+    <Address>461 GRIFFITHS PL</Address>
+    <BuildingName>GRIFFITHS  MANOR</BuildingName>
+    <NumberOfResidences>24</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1654</BuildingId>
+    <Address>378 HOSPITAL ST</Address>
+    <BuildingName>3 SUITES</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1357</BuildingId>
+    <Address>315 HOSPITAL ST</Address>
+    <BuildingName>PARKLANE MANOR</BuildingName>
+    <NumberOfResidences>26</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1644</BuildingId>
+    <Address>352 HOSPITAL ST</Address>
+    <BuildingName>GAY LYNN APARTMENT</BuildingName>
+    <NumberOfResidences>31</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1363</BuildingId>
+    <Address>321 HOSPITAL ST</Address>
+    <BuildingName>THE COLUMBIAN</BuildingName>
+    <NumberOfResidences>37</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1383</BuildingId>
+    <Address>338 HOSPITAL ST</Address>
+    <BuildingName>THE CAS MIA</BuildingName>
+    <NumberOfResidences>38</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1377</BuildingId>
+    <Address>331 HOSPITAL ST</Address>
+    <BuildingName>THE PARKSIDE</BuildingName>
+    <NumberOfResidences>48</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1633</BuildingId>
+    <Address>361 KEARY ST</Address>
+    <BuildingName>HILLCREST APARTMENT</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1387</BuildingId>
+    <Address>319 KNOX ST</Address>
+    <BuildingName>THE MONTEGO APARTMENT</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1386</BuildingId>
+    <Address>315 SHERBROOKE ST</Address>
+    <BuildingName>SOL MANOR</BuildingName>
+    <NumberOfResidences>28</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1388</BuildingId>
+    <Address>329 SHERBROOKE ST</Address>
+    <BuildingName>SHERBROOKE MANOR</BuildingName>
+    <NumberOfResidences>60</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1351</BuildingId>
+    <Address>314 SIMPSON ST</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>3</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>1403</BuildingId>
+    <Address>325 WARD ST</Address>
+    <BuildingName>MANDALAY TERRACE</BuildingName>
+    <NumberOfResidences>57</NumberOfResidences>
+    <Neighborhood>SAPPERTON</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3807</BuildingId>
+    <Address>436 ASH ST</Address>
+    <BuildingName>CAPRI VILLA</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4647</BuildingId>
+    <Address>512 ASH ST</Address>
+    <BuildingName>ASH MANOR</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4644</BuildingId>
+    <Address>522 ASH ST</Address>
+    <BuildingName>ASHWOOD COURT</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>2887</BuildingId>
+    <Address>211 ASH ST</Address>
+    <BuildingName>CHERLYN APARTMENT</BuildingName>
+    <NumberOfResidences>20</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3261</BuildingId>
+    <Address>311 ASH ST</Address>
+    <BuildingName>CEDARVILLE APARTMENTS</BuildingName>
+    <NumberOfResidences>27</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3426</BuildingId>
+    <Address>325 ASH ST</Address>
+    <BuildingName>MAGNOLIA MANOR</BuildingName>
+    <NumberOfResidences>27</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4646</BuildingId>
+    <Address>516 ASH ST</Address>
+    <BuildingName>THE AMBASSADOR</BuildingName>
+    <NumberOfResidences>28</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3037</BuildingId>
+    <Address>230 ASH ST</Address>
+    <BuildingName>DAVIS MANOR</BuildingName>
+    <NumberOfResidences>40</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3674</BuildingId>
+    <Address>420 ASH ST</Address>
+    <BuildingName>THE CEDARAMA</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3817</BuildingId>
+    <Address>435 ASH ST</Address>
+    <BuildingName>COLONIAL HOUSE</BuildingName>
+    <NumberOfResidences>43</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3665</BuildingId>
+    <Address>409 ASH ST</Address>
+    <BuildingName>THE RIVIERA</BuildingName>
+    <NumberOfResidences>44</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3812</BuildingId>
+    <Address>430 ASH ST</Address>
+    <BuildingName>CUDWORTH MANOR</BuildingName>
+    <NumberOfResidences>44</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3036</BuildingId>
+    <Address>222 ASH ST</Address>
+    <BuildingName>RISHON MANOR</BuildingName>
+    <NumberOfResidences>50</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4640</BuildingId>
+    <Address>527 ASH ST</Address>
+    <BuildingName>WESTWOOD TOWERS</BuildingName>
+    <NumberOfResidences>58</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3424</BuildingId>
+    <Address>330 ASH ST</Address>
+    <BuildingName>CASA BERNELLO</BuildingName>
+    <NumberOfResidences>60</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4635</BuildingId>
+    <Address>511 ASH ST</Address>
+    <BuildingName>NASSAU HOUSE</BuildingName>
+    <NumberOfResidences>69</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3232</BuildingId>
+    <Address>610 BLACKFORD ST</Address>
+    <BuildingName>KEY MANOR</BuildingName>
+    <NumberOfResidences>29</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3033</BuildingId>
+    <Address>237 EIGHTH ST</Address>
+    <BuildingName>LODGE HOUSE APARTMENT</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>335</BuildingId>
+    <Address>119 EIGHTH ST</Address>
+    <BuildingName>TWIN CEDARS</BuildingName>
+    <NumberOfResidences>5</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>338</BuildingId>
+    <Address>115 EIGHTH ST</Address>
+    <BuildingName>GRIMSTONE HOME</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3419</BuildingId>
+    <Address>331 EIGHTH ST</Address>
+    <BuildingName>MARGUERITE COURT</BuildingName>
+    <NumberOfResidences>6</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>337</BuildingId>
+    <Address>111 EIGHTH ST</Address>
+    <BuildingName>WEDGEWOOD MANOR</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>334</BuildingId>
+    <Address>125 EIGHTH ST</Address>
+    <BuildingName>THE SARNIA APARTMENT</BuildingName>
+    <NumberOfResidences>12</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3806</BuildingId>
+    <Address>429 EIGHTH ST</Address>
+    <BuildingName>MCFARLANE APARTMENTS</BuildingName>
+    <NumberOfResidences>13</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3420</BuildingId>
+    <Address>327 EIGHTH ST</Address>
+    <BuildingName>SILVERDALE APARTMENT</BuildingName>
+    <NumberOfResidences>15</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>333</BuildingId>
+    <Address>127 EIGHTH ST</Address>
+    <BuildingName>CHATEAU ROYAL APARTMENT</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3809</BuildingId>
+    <Address>427 EIGHTH ST</Address>
+    <BuildingName>ROSS APARTMENTS</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3673</BuildingId>
+    <Address>411 EIGHTH ST</Address>
+    <BuildingName>VILLA FONTANA</BuildingName>
+    <NumberOfResidences>22</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3675</BuildingId>
+    <Address>417 EIGHTH ST</Address>
+    <BuildingName>HUDSON MANOR</BuildingName>
+    <NumberOfResidences>22</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3032</BuildingId>
+    <Address>231 EIGHTH ST</Address>
+    <BuildingName>LA BELLE MANOR</BuildingName>
+    <NumberOfResidences>24</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4648</BuildingId>
+    <Address>515 EIGHTH ST</Address>
+    <BuildingName>THE LINCOLN</BuildingName>
+    <NumberOfResidences>29</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6424</BuildingId>
+    <Address>621 EIGHTH ST</Address>
+    <BuildingName>DEVONSHIRE HOUSE</BuildingName>
+    <NumberOfResidences>84</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3808</BuildingId>
+    <Address>726 FIFTH AVE</Address>
+    <BuildingName>ARROW APARTMENT</BuildingName>
+    <NumberOfResidences>15</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3805</BuildingId>
+    <Address>732 FIFTH AVE</Address>
+    <BuildingName>IMPALA MANOR</BuildingName>
+    <NumberOfResidences>25</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4650</BuildingId>
+    <Address>731 FIFTH AVE</Address>
+    <BuildingName>THE LINCOLN</BuildingName>
+    <NumberOfResidences>34</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4649</BuildingId>
+    <Address>727 FIFTH AVE</Address>
+    <BuildingName>THE LINCOLN</BuildingName>
+    <NumberOfResidences>35</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4634</BuildingId>
+    <Address>711 FIFTH AVE</Address>
+    <BuildingName>YORK HOUSE</BuildingName>
+    <NumberOfResidences>124</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3671</BuildingId>
+    <Address>727 FOURTH AVE</Address>
+    <BuildingName>THE GAYWYN</BuildingName>
+    <NumberOfResidences>10</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3428</BuildingId>
+    <Address>700 FOURTH AVE</Address>
+    <BuildingName>ROBYN APARTMENT</BuildingName>
+    <NumberOfResidences>56</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>322</BuildingId>
+    <Address>702 GLOUCESTER ST</Address>
+    <BuildingName>CRYSTAL GARDENS</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6411</BuildingId>
+    <Address>610 HAMILTON ST</Address>
+    <BuildingName>EDGEWATER HAMILTON</BuildingName>
+    <NumberOfResidences>89</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6431</BuildingId>
+    <Address>700 HAMILTON ST</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>99</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>2896</BuildingId>
+    <Address>727 QUEENS AVE</Address>
+    <BuildingName>9 SUITES</BuildingName>
+    <NumberOfResidences>9</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>2889</BuildingId>
+    <Address>711 QUEENS AVE</Address>
+    <BuildingName>CREST MANOR</BuildingName>
+    <NumberOfResidences>20</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>331</BuildingId>
+    <Address>706 QUEENS AVE</Address>
+    <BuildingName>THE REGENCY</BuildingName>
+    <NumberOfResidences>112</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>329</BuildingId>
+    <Address>720 QUEENS AVE</Address>
+    <BuildingName>ASHDOWN COURT APARTMENT</BuildingName>
+    <NumberOfResidences>113</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>319</BuildingId>
+    <Address>735 ROYAL AVE</Address>
+    <BuildingName>EDMONDS COURT</BuildingName>
+    <NumberOfResidences>36</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6413</BuildingId>
+    <Address>615 SEVENTH AVE</Address>
+    <BuildingName>EDGEWATER TOWERS</BuildingName>
+    <NumberOfResidences>80</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6428</BuildingId>
+    <Address>720 SEVENTH AVE</Address>
+    <BuildingName>GROVESNOR HOUSE</BuildingName>
+    <NumberOfResidences>89</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6412</BuildingId>
+    <Address>707 SEVENTH AVE</Address>
+    <BuildingName>EDGEWATER PLAZA</BuildingName>
+    <NumberOfResidences>94</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6430</BuildingId>
+    <Address>711 SEVENTH AVE</Address>
+    <BuildingName>HYACK HOUSE</BuildingName>
+    <NumberOfResidences>107</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3060</BuildingId>
+    <Address>227 SEVENTH ST</Address>
+    <BuildingName>8 SUITES</BuildingName>
+    <NumberOfResidences>9</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3224</BuildingId>
+    <Address>323 SEVENTH ST</Address>
+    <BuildingName>THE MAYFLOWER</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3225</BuildingId>
+    <Address>329 SEVENTH ST</Address>
+    <BuildingName>THE ST. MICHELLE</BuildingName>
+    <NumberOfResidences>21</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3669</BuildingId>
+    <Address>420 SEVENTH ST</Address>
+    <BuildingName>WINDSOR HOUSE</BuildingName>
+    <NumberOfResidences>37</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>2886</BuildingId>
+    <Address>221 SEVENTH ST</Address>
+    <BuildingName>LADRILLA MANOR</BuildingName>
+    <NumberOfResidences>39</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3664</BuildingId>
+    <Address>404 SEVENTH ST</Address>
+    <BuildingName>LORI ANNE</BuildingName>
+    <NumberOfResidences>42</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3427</BuildingId>
+    <Address>322 SEVENTH ST</Address>
+    <BuildingName>WESTCOURT MANOR</BuildingName>
+    <NumberOfResidences>53</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3046</BuildingId>
+    <Address>220 SEVENTH ST</Address>
+    <BuildingName>EL PRESIDENTE</BuildingName>
+    <NumberOfResidences>63</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4631</BuildingId>
+    <Address>612 SIXTH AVE</Address>
+    <BuildingName>APARTMENTS</BuildingName>
+    <NumberOfResidences>16</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3647</BuildingId>
+    <Address>414 SIXTH ST</Address>
+    <BuildingName>4 SUITES</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6380</BuildingId>
+    <Address>633 SIXTH ST</Address>
+    <BuildingName>EDGEWATER CENTRE</BuildingName>
+    <NumberOfResidences>72</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>315</BuildingId>
+    <Address>140 SIXTH ST</Address>
+    <BuildingName>ROYAL TOWERS</BuildingName>
+    <NumberOfResidences>135</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>514</BuildingId>
+    <Address>520 THIRD AVE</Address>
+    <BuildingName>ST. GEORGES SQUARE</BuildingName>
+    <NumberOfResidences>9</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3234</BuildingId>
+    <Address>605 THIRD AVE</Address>
+    <BuildingName>THE UPTOWNER</BuildingName>
+    <NumberOfResidences>17</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>3233</BuildingId>
+    <Address>615 THIRD AVE</Address>
+    <BuildingName>THE CAPRI</BuildingName>
+    <NumberOfResidences>29</NumberOfResidences>
+    <Neighborhood>UPTOWN</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6503</BuildingId>
+    <Address>845 MCBRIDE BLVD</Address>
+    <BuildingName>MASSEY PLACE</BuildingName>
+    <NumberOfResidences>45</NumberOfResidences>
+    <Neighborhood>VICTORY HEIGHTS</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6504</BuildingId>
+    <Address>855 MCBRIDE BLVD</Address>
+    <BuildingName>MASSEY PLACE</BuildingName>
+    <NumberOfResidences>53</NumberOfResidences>
+    <Neighborhood>VICTORY HEIGHTS</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>6502</BuildingId>
+    <Address>841 MCBRIDE BLVD</Address>
+    <BuildingName>MASSEY PLACE</BuildingName>
+    <NumberOfResidences>66</NumberOfResidences>
+    <Neighborhood>VICTORY HEIGHTS</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>5274</BuildingId>
+    <Address>1303 EIGHTH AVE</Address>
+    <BuildingName>HILLCREST APARTMENTS</BuildingName>
+    <NumberOfResidences>41</NumberOfResidences>
+    <Neighborhood>WESTEND</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4920</BuildingId>
+    <Address>1210 SEVENTH AVE</Address>
+    <BuildingName>WESTVIEW MANOR</BuildingName>
+    <NumberOfResidences>15</NumberOfResidences>
+    <Neighborhood>WESTEND</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4965</BuildingId>
+    <Address>1315 SEVENTH AVE</Address>
+    <BuildingName>SYLVIA APARTMENTS</BuildingName>
+    <NumberOfResidences>24</NumberOfResidences>
+    <Neighborhood>WESTEND</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4998</BuildingId>
+    <Address>1317 SIXTH AVE</Address>
+    <BuildingName>MARLENE COURT</BuildingName>
+    <NumberOfResidences>5</NumberOfResidences>
+    <Neighborhood>WESTEND</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4997</BuildingId>
+    <Address>1321 SIXTH AVE</Address>
+    <BuildingName>MARLENE COURT</BuildingName>
+    <NumberOfResidences>5</NumberOfResidences>
+    <Neighborhood>WESTEND</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4924</BuildingId>
+    <Address>620 TWELFTH ST</Address>
+    <BuildingName>UNKNOWN</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>WESTEND</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>5259</BuildingId>
+    <Address>812 TWELFTH ST</Address>
+    <BuildingName>PIERO PLACE</BuildingName>
+    <NumberOfResidences>4</NumberOfResidences>
+    <Neighborhood>WESTEND</Neighborhood>
+  </NewWestminsterRentalHousing>
+  <NewWestminsterRentalHousing>
+    <BuildingId>4928</BuildingId>
+    <Address>634 TWELFTH ST</Address>
+    <BuildingName>THE MARRESE</BuildingName>
+    <NumberOfResidences>14</NumberOfResidences>
+    <Neighborhood>WESTEND</Neighborhood>
+  </NewWestminsterRentalHousing>
+</ArrayOfNewWestminsterRentalHousing>

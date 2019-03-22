@@ -1,0 +1,93 @@
+﻿==============
+Initial array
+Name: Homer Simpson, Age: 47
+Name: Marge Simpson, Age: 45
+Name: Lisa Simpson, Age: 9
+Name: Bart Simpson, Age: 8
+Name: Maggie Simpson, Age: 2
+Name: Ned Flanders, Age: 42
+Name: Maude Flanders, Age: 40
+Name: Rod Flanders, Age: 12
+Name: Todd Flanders, Age: 13
+==============
+Original list
+Name: Homer Simpson, Age: 47
+Name: Marge Simpson, Age: 45
+Name: Lisa Simpson, Age: 9
+Name: Bart Simpson, Age: 8
+Name: Maggie Simpson, Age: 2
+Name: Ned Flanders, Age: 42
+Name: Maude Flanders, Age: 40
+Name: Rod Flanders, Age: 12
+Name: Todd Flanders, Age: 13
+==============
+Sorted by Last Name then First name using default comparer
+Name: Maude Flanders, Age: 40
+Name: Ned Flanders, Age: 42
+Name: Rod Flanders, Age: 12
+Name: Todd Flanders, Age: 13
+Name: Bart Simpson, Age: 8
+Name: Homer Simpson, Age: 47
+Name: Lisa Simpson, Age: 9
+Name: Maggie Simpson, Age: 2
+Name: Marge Simpson, Age: 45
+==============
+Randomized list
+Name: Maggie Simpson, Age: 2
+Name: Marge Simpson, Age: 45
+Name: Bart Simpson, Age: 8
+Name: Homer Simpson, Age: 47
+Name: Lisa Simpson, Age: 9
+Name: Todd Flanders, Age: 13
+Name: Maude Flanders, Age: 40
+Name: Rod Flanders, Age: 12
+Name: Ned Flanders, Age: 42
+==============
+Sorted by First Name list
+Name: Bart Simpson, Age: 8
+Name: Homer Simpson, Age: 47
+Name: Lisa Simpson, Age: 9
+Name: Maggie Simpson, Age: 2
+Name: Marge Simpson, Age: 45
+Name: Maude Flanders, Age: 40
+Name: Ned Flanders, Age: 42
+Name: Rod Flanders, Age: 12
+Name: Todd Flanders, Age: 13
+==============
+Stack with top 2 flipped
+Name: Rod Flanders, Age: 12
+Name: Todd Flanders, Age: 13
+Name: Ned Flanders, Age: 42
+Name: Maude Flanders, Age: 40
+Name: Marge Simpson, Age: 45
+Name: Maggie Simpson, Age: 2
+Name: Lisa Simpson, Age: 9
+Name: Homer Simpson, Age: 47
+Name: Bart Simpson, Age: 8
+==============
+Age sorted Queue with Grandma and Grandpa Simpson at end
+Name: Maggie Simpson, Age: 2
+Name: Bart Simpson, Age: 8
+Name: Lisa Simpson, Age: 9
+Name: Rod Flanders, Age: 12
+Name: Todd Flanders, Age: 13
+Name: Maude Flanders, Age: 40
+Name: Ned Flanders, Age: 42
+Name: Marge Simpson, Age: 45
+Name: Homer Simpson, Age: 47
+Name: Grandma Simpson, Age: 95
+Name: Grandpa Simpson, Age: 100
+Number of elements in the queue: 11
+==DeQueue==
+Name: Maggie Simpson, Age: 2 left the queue
+Name: Bart Simpson, Age: 8 left the queue
+Name: Lisa Simpson, Age: 9 left the queue
+Name: Rod Flanders, Age: 12 left the queue
+Name: Todd Flanders, Age: 13 left the queue
+Name: Maude Flanders, Age: 40 left the queue
+Name: Ned Flanders, Age: 42 left the queue
+Name: Marge Simpson, Age: 45 left the queue
+Name: Homer Simpson, Age: 47 left the queue
+Name: Grandma Simpson, Age: 95 left the queue
+Name: Grandpa Simpson, Age: 100 left the queue
+Number of elements in the queue: 0

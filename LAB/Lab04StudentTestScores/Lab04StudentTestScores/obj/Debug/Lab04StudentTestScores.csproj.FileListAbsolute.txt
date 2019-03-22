@@ -1,0 +1,12 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Lab04StudentTestScores\Lab04StudentTestScoresStartupCode\bin\Debug\Lab04StudentTestScoresStartupCode.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Lab04StudentTestScores\Lab04StudentTestScoresStartupCode\bin\Debug\Lab04StudentTestScoresStartupCode.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Lab04StudentTestScores\Lab04StudentTestScoresStartupCode\bin\Debug\Lab04StudentTestScoresStartupCode.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Lab04StudentTestScores\Lab04StudentTestScoresStartupCode\obj\Debug\Lab04StudentTestScores.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Lab04StudentTestScores\Lab04StudentTestScoresStartupCode\obj\Debug\Lab04StudentTestScoresStartupCode.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Lab04StudentTestScores\Lab04StudentTestScoresStartupCode\obj\Debug\Lab04StudentTestScoresStartupCode.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\Lab04StudentTestScoresStartupCode.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\Lab04StudentTestScoresStartupCode.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\Lab04StudentTestScoresStartupCode.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\Lab04StudentTestScores.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\Lab04StudentTestScoresStartupCode.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\Lab04StudentTestScoresStartupCode.pdb

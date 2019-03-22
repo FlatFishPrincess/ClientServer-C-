@@ -1,0 +1,13 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\bin\Debug\ComparableCar.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\bin\Debug\ComparableCar.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\bin\Debug\ComparableCar.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\obj\Debug\ComparableCar.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ComparableCar\obj\Debug\ComparableCar.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\ComparableCar\bin\Debug\ComparableCar.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\ComparableCar\bin\Debug\ComparableCar.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\ComparableCar\bin\Debug\ComparableCar.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\ComparableCar\bin\Debug\ComparableCar.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\ComparableCar\obj\Debug\ComparableCar.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\ComparableCar\obj\Debug\ComparableCar.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\ComparableCar\obj\Debug\ComparableCar.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\ComparableCar\obj\Debug\ComparableCar.pdb

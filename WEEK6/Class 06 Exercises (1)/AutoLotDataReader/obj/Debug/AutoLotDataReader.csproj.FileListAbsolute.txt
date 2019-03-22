@@ -1,0 +1,13 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\obj\Debug\AutoLotDataReader.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\obj\Debug\AutoLotDataReader.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\bin\Debug\AutoLotDataReader.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\obj\Debug\AutoLotDataReader.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\bin\Debug\AutoLotDataReader.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\obj\Debug\AutoLotDataReader.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\obj\Debug\AutoLotDataReader.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\obj\Debug\AutoLotDataReader.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\AutoLotDataReader\obj\Debug\AutoLotDataReader.pdb

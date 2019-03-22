@@ -1,0 +1,10 @@
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\bin\Debug\ListBoxText.exe.config
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\bin\Debug\ListBoxText.exe
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\bin\Debug\ListBoxText.pdb
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.csprojResolveAssemblyReference.cache
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.ListBoxTestForm.resources
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.Properties.Resources.resources
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.csproj.GenerateResource.Cache
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.csproj.CoreCompileInputs.cache
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.exe
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.pdb

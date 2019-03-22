@@ -1,0 +1,19 @@
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/CustomGenericMethods/bin/Debug/CustomGenericMethods.exe.config
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/CustomGenericMethods/bin/Debug/CustomGenericMethods.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/CustomGenericMethods/bin/Debug/CustomGenericMethods.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/CustomGenericMethods/obj/Debug/CustomGenericMethods.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/CustomGenericMethods/obj/Debug/CustomGenericMethods.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CustomGenericMethods/bin/Debug/CustomGenericMethods.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CustomGenericMethods/bin/Debug/CustomGenericMethods.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CustomGenericMethods/bin/Debug/CustomGenericMethods.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CustomGenericMethods/obj/Debug/CustomGenericMethods.csprojAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CustomGenericMethods/obj/Debug/CustomGenericMethods.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CustomGenericMethods/obj/Debug/CustomGenericMethods.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/CustomGenericMethods/obj/Debug/CustomGenericMethods.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CustomGenericMethods/bin/Debug/CustomGenericMethods.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CustomGenericMethods/bin/Debug/CustomGenericMethods.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CustomGenericMethods/bin/Debug/CustomGenericMethods.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CustomGenericMethods/obj/Debug/CustomGenericMethods.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CustomGenericMethods/obj/Debug/CustomGenericMethods.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CustomGenericMethods/obj/Debug/CustomGenericMethods.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/CustomGenericMethods/obj/Debug/CustomGenericMethods.pdb

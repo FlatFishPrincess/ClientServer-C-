@@ -1,0 +1,21 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\bin\Debug\OpenFileDialogExample.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\bin\Debug\OpenFileDialogExample.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\bin\Debug\OpenFileDialogExample.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.FormOpenFileDialogExample.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\bin\Debug\OpenFileDialogExample.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\bin\Debug\OpenFileDialogExample.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\bin\Debug\OpenFileDialogExample.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\bin\Debug\OpenFileDialogExample.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.FormOpenFileDialogExample.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 WindowsForms\OpenFileDialogExample\obj\Debug\OpenFileDialogExample.pdb

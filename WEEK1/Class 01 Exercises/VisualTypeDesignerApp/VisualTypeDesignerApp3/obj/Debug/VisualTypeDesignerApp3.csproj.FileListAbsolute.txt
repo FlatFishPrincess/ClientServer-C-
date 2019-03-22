@@ -1,0 +1,6 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\VisualTypeDesignerApp3\VisualTypeDesignerApp3\bin\Debug\VisualTypeDesignerApp3.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\VisualTypeDesignerApp3\VisualTypeDesignerApp3\bin\Debug\VisualTypeDesignerApp3.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\VisualTypeDesignerApp3\VisualTypeDesignerApp3\bin\Debug\VisualTypeDesignerApp3.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\VisualTypeDesignerApp3\VisualTypeDesignerApp3\obj\Debug\VisualTypeDesignerApp3.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\VisualTypeDesignerApp3\VisualTypeDesignerApp3\obj\Debug\VisualTypeDesignerApp3.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\VisualTypeDesignerApp3\VisualTypeDesignerApp3\obj\Debug\VisualTypeDesignerApp3.pdb

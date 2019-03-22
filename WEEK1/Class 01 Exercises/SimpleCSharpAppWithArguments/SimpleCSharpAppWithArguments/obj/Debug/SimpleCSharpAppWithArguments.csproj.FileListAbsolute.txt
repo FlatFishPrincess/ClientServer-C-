@@ -1,0 +1,13 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\bin\Debug\SimpleCSharpApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\bin\Debug\SimpleCSharpApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\bin\Debug\SimpleCSharpApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\obj\Debug\SimpleCSharpApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\obj\Debug\SimpleCSharpApp.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\bin\Debug\SimpleCSharpApp.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\obj\Debug\SimpleCSharpApp.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\obj\Debug\SimpleCSharpApp.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\bin\Debug\SimpleCSharpApp.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\bin\Debug\SimpleCSharpApp.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\obj\Debug\SimpleCSharpAppWithArguments.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\obj\Debug\SimpleCSharpAppWithArguments.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\SimpleCSharpAppWithArguments\SimpleCSharpAppWithArguments\obj\Debug\SimpleCSharpAppWithArguments.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithCollections/bin/Debug/FunWithCollections.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithCollections/bin/Debug/FunWithCollections.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithCollections/bin/Debug/FunWithCollections.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithCollections/obj/Debug/FunWithCollections.csprojAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithCollections/obj/Debug/FunWithCollections.csproj.CoreCompileInputs.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithCollections/obj/Debug/FunWithCollections.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithCollections/obj/Debug/FunWithCollections.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithCollections/bin/Debug/FunWithCollections.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithCollections/bin/Debug/FunWithCollections.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithCollections/bin/Debug/FunWithCollections.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithCollections/obj/Debug/FunWithCollections.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithCollections/obj/Debug/FunWithCollections.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithCollections/obj/Debug/FunWithCollections.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithCollections/obj/Debug/FunWithCollections.pdb

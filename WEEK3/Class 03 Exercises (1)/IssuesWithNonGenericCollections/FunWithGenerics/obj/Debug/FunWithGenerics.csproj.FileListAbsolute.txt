@@ -1,0 +1,9 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\bin\Debug\FunWithGenerics.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\bin\Debug\FunWithGenerics.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\bin\Debug\FunWithGenerics.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\obj\Debug\FunWithGenerics.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\obj\Debug\FunWithGenerics.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\obj\Debug\FunWithGenerics.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\bin\Debug\FunWithGenerics.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\obj\Debug\FunWithGenerics.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\FunWithGenerics\obj\Debug\FunWithGenerics.pdb

@@ -1,0 +1,13 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.pdb

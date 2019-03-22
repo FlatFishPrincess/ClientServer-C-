@@ -1,0 +1,38 @@
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\bin\Debug\ListBoxText.exe.config
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\bin\Debug\ListBoxText.exe
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\bin\Debug\ListBoxText.pdb
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxExample.ListBoxExampleForm.resources
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.Properties.Resources.resources
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxExample.csproj.GenerateResource.Cache
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxExample.csproj.CoreCompileInputs.cache
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.exe
+c:\users\mhrybyk\documents\visual studio 2017\Projects\ListBoxText\ListBoxText\obj\Debug\ListBoxText.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.ListBoxExampleForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.ListBoxExampleForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.Properties.Resources.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.csproj.GenerateResource.Cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\bin\Debug\ListBoxText.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.ListBoxExampleForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxExample.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 05\Class 05 Exercises\ListBoxExample\ListBoxExample\obj\Debug\ListBoxText.pdb

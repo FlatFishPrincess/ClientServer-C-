@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{857C2DC4-D78F-4231-91CD-164ACF361036}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab03People PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab03People/Output.txt">
+    <Files>
+      <File FileName="Lab03People/Output.txt" Line="36" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

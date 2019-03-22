@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{32949E0A-A70D-445B-AA08-9B29AF87C7CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VisualStudioClassDiagram/VisualStudioClassDiagramProgram.cs">
+    <Files>
+      <File FileName="VisualStudioClassDiagram/VisualStudioClassDiagramProgram.cs" Line="24" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VisualStudioClassDiagram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

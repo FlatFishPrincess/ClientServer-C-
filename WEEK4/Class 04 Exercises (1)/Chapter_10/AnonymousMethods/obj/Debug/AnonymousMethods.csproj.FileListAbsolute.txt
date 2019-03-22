@@ -1,0 +1,19 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.csprojAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 04\Chapter_10\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

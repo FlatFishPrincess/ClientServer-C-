@@ -1,0 +1,7 @@
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab04StudentTestScores/Lab04StudentTestScores/obj/Debug/StudentTestScores.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab04StudentTestScores/Lab04StudentTestScores/obj/Debug/StudentTestScores.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab04StudentTestScores/Lab04StudentTestScores/obj/Debug/Lab04StudentTestScoresStartupCode.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab04StudentTestScores/Lab04StudentTestScores/obj/Debug/Lab04StudentTestScoresStartupCode.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab04StudentTestScores/Lab04StudentTestScores/bin/Debug/Lab04StudentTestScoresStartupCode.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab04StudentTestScores/Lab04StudentTestScores/bin/Debug/Lab04StudentTestScoresStartupCode.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab04StudentTestScores/Lab04StudentTestScores/bin/Debug/Lab04StudentTestScoresStartupCode.pdb

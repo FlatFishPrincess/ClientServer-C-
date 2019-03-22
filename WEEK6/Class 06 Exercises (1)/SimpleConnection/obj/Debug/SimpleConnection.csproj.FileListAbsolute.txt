@@ -1,0 +1,7 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\SimpleConnection\bin\Debug\MyConnectionFactory.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\SimpleConnection\bin\Debug\MyConnectionFactory.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\SimpleConnection\bin\Debug\MyConnectionFactory.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\SimpleConnection\obj\Debug\SimpleConnection.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\SimpleConnection\obj\Debug\MyConnectionFactory.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\SimpleConnection\obj\Debug\MyConnectionFactory.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 06\SimpleConnection\obj\Debug\SimpleConnection.csprojAssemblyReference.cache

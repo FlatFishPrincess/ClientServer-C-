@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AAC7CD09-E4C0-4671-AEAD-8133402BEF70}|Default">
+  <MonoDevelop.Ide.ItemProperties.SimpleCSharpConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleCSharpConsoleApp/SimpleCSharpConsoleAppProgram.cs">
+    <Files>
+      <File FileName="SimpleCSharpConsoleApp/SimpleCSharpConsoleAppProgram.cs" Line="25" Column="13" />
+      <File FileName="SimpleCSharpConsoleApp/App.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

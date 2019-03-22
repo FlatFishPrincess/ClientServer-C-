@@ -1,0 +1,7 @@
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab03People/Lab03People/obj/Debug/Lab03People.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab03People/Lab03People/obj/Debug/Lab03People.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab03People/Lab03People/bin/Debug/Lab03People.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab03People/Lab03People/bin/Debug/Lab03People.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab03People/Lab03People/bin/Debug/Lab03People.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab03People/Lab03People/obj/Debug/Lab03People.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/LAB/Lab03People/Lab03People/obj/Debug/Lab03People.pdb

@@ -1,0 +1,15 @@
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/FunWithGenericCollections/bin/Debug/FunWithGenericCollections.exe.config
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/FunWithGenericCollections/bin/Debug/FunWithGenericCollections.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/FunWithGenericCollections/bin/Debug/FunWithGenericCollections.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/FunWithGenericCollections/obj/Debug/FunWithGenericCollections.exe
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/FunWithGenericCollections/obj/Debug/FunWithGenericCollections.pdb
+C:/MyBooks/C# Book (7th ed)/Code/Chapter_9/FunWithGenericCollections/obj/Debug/FunWithGenericCollections.csprojResolveAssemblyReference.cache
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithGenericCollections/bin/Debug/FunWithGenericCollections.exe.config
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithGenericCollections/obj/Debug/FunWithGenericCollections.exe
+C:/Users/mhryb_000/OneDrive/Documents/CSIS 3540/Exercises/Class 03/FunWithGenericCollections/obj/Debug/FunWithGenericCollections.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithGenericCollections/bin/Debug/FunWithGenericCollections.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithGenericCollections/bin/Debug/FunWithGenericCollections.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithGenericCollections/bin/Debug/FunWithGenericCollections.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithGenericCollections/obj/Debug/FunWithGenericCollections.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithGenericCollections/obj/Debug/FunWithGenericCollections.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/Class 03 Exercises (1)/FunWithGenericCollections/obj/Debug/FunWithGenericCollections.pdb

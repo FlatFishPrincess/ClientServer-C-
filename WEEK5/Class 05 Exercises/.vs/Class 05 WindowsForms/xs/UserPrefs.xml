@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6D57456D-5704-44D1-9089-69949193581C}|Default">
+  <MonoDevelop.Ide.ItemProperties.BasicWindowsForm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MoreControls PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.ConstructingXMLDocs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FunWithDataGridView PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XMLSerialize PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/MoreControls/MoreControlsForm.cs" relfile="MoreControls/MoreControlsForm.cs" line="177" column="7" />
+      <Breakpoint file="/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/MoreControls/MoreControlsForm.cs" relfile="MoreControls/MoreControlsForm.cs" line="129" column="7" />
+      <Breakpoint file="/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/XMLSerializeProgram.cs" relfile="XMLSerialize/XMLSerializeProgram.cs" line="74" column="11" />
+      <Breakpoint file="/Users/jiweonpark/Desktop/2019Winter/C#/WEEK5/Class 05 Exercises/XMLSerialize/XMLSerializeProgram.cs" relfile="XMLSerialize/XMLSerializeProgram.cs" line="142" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

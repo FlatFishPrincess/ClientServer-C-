@@ -1,0 +1,8 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 01\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\BasicDataTypes\obj\Debug\BasicDataTypes.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\BasicDataTypes\obj\Debug\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 01\BasicDataTypes\obj\Debug\BasicDataTypes.pdb

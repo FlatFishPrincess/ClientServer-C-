@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <!--Current Inventory of cars!-->
+  <Car ID="1">
+    <Color>Green</Color>
+    <Make>BMW</Make>
+    <Name>Stan</Name>
+  </Car>
+  <Car ID="2">
+    <Color>Pink</Color>
+    <Make>Yugo</Make>
+    <Name>Melvin</Name>
+  </Car>
+  <Car ID="5">
+    <Color>Red</Color>
+    <Make>Honda</Make>
+    <Name>Henry</Name>
+  </Car>
+</Inventory>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FBA1FDC3-1FB4-409D-98EB-C62EACE5461A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleCSharpAppWithArguments/SimpleCSharpAppWithArgumentsProgram.cs">
+    <Files>
+      <File FileName="SimpleCSharpAppWithArguments/SimpleCSharpAppWithArgumentsProgram.cs" Line="16" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SimpleCSharpAppWithArguments PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

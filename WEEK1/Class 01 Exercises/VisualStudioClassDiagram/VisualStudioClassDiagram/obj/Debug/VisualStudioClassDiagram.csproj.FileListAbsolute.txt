@@ -1,0 +1,13 @@
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/VisualStudioClassDiagram/VisualStudioClassDiagram/bin/Debug/VisualStudioClassDiagram.exe.config
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/VisualStudioClassDiagram/VisualStudioClassDiagram/bin/Debug/VisualStudioClassDiagram.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/VisualStudioClassDiagram/VisualStudioClassDiagram/bin/Debug/VisualStudioClassDiagram.pdb
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/VisualStudioClassDiagram/VisualStudioClassDiagram/obj/Debug/VisualStudioClassDiagram.csprojResolveAssemblyReference.cache
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/VisualStudioClassDiagram/VisualStudioClassDiagram/obj/Debug/VisualStudioClassDiagram.exe
+C:/Users/mhrybyk/OneDrive/Documents/CSIS 3540/Exercises/Class 01/VisualStudioClassDiagram/VisualStudioClassDiagram/obj/Debug/VisualStudioClassDiagram.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualStudioClassDiagram/VisualStudioClassDiagram/bin/Debug/VisualStudioClassDiagram.exe.config
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualStudioClassDiagram/VisualStudioClassDiagram/bin/Debug/VisualStudioClassDiagram.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualStudioClassDiagram/VisualStudioClassDiagram/bin/Debug/VisualStudioClassDiagram.pdb
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualStudioClassDiagram/VisualStudioClassDiagram/obj/Debug/VisualStudioClassDiagram.csprojAssemblyReference.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualStudioClassDiagram/VisualStudioClassDiagram/obj/Debug/VisualStudioClassDiagram.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualStudioClassDiagram/VisualStudioClassDiagram/obj/Debug/VisualStudioClassDiagram.exe
+/Users/jiweonpark/Desktop/2019Winter/C#/WEEK1/Class 01 Exercises/VisualStudioClassDiagram/VisualStudioClassDiagram/obj/Debug/VisualStudioClassDiagram.pdb
